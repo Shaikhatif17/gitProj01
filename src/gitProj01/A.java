@@ -5,7 +5,7 @@ public A() {
 
 	System.out.println("a.A()1");
 
-	System.out.println("a.A()c");
+	System.out.println("a.A()aaaa");
 
 }
 }
