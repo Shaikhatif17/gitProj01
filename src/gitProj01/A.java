@@ -2,6 +2,6 @@ package gitProj01;
 
 public class A {
 public A() {
-	System.out.println("a.A()b");
+	System.out.println("a.A()d");
 }
 }
